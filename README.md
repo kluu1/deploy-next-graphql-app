@@ -6,4 +6,4 @@ https://medium.com/javascript-in-plain-english/setting-upapollo-graphql-in-next-
 ### App Description
 This is a boilerplate Next.js application with a GraphQL backend. Upon initial load of the home page, a GraphQL query will be made to GraphQL API to fetch a list of users. The users will be rendered to the screen once the data is retreived.
 
-![Alt text](/screenshot.png?raw=true "deploy-next-graphql-app")
+![Alt text](/public/app.png?raw=true "app")
