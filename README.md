@@ -1,5 +1,5 @@
 ## How to Deploy a Next.js App to Heroku
-This is the sample code to my blog post on Medium on "How to Deploy a Next.js App to Heroku". Check it out: 
+This is the starter code to my blog post on Medium on "How to Deploy a Next.js App to Heroku". Check it out: 
 
 https://medium.com/javascript-in-plain-english/setting-upapollo-graphql-in-next-js-a1b36726c836
 
